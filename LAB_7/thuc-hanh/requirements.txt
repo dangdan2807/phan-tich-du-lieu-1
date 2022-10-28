@@ -1,0 +1,10 @@
+dash
+Dash
+html
+dcc
+dash_core_components
+plotly.express
+pandas
+firebase_admin
+credentials
+firestore
